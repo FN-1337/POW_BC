@@ -15,7 +15,7 @@
 ![TX INFO](Screenshots/TXstatus.PNG)
 ### Acounts post 204625697166532776746648320380374280103671755200316905558 ETH transaction
 ![TX INFO](Screenshots/1st_acc_funds.PNG)
-![TX INFO](Screenshots/2nd_acc_funds.PNG)
+![TX O](Screenshots/2nd_acc_funds.PNG)
 
 # Required information
 ### Address 1:  0x414e95627b926210A6520A88dEb5987502d33F79
