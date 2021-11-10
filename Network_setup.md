@@ -18,7 +18,7 @@
 ![TX O](Screenshots/2nd_acc_funds.PNG)
 
 # Required information
-### Address 1:  0x414e95627b926210A6520A88dEb5987502d33F79
+### Address 1: 0x414e95627b926210A6520A88dEb5987502d33F79
 ### path to secret key 1:  node1\keystore\UTC--2021-10-09T15-21-00.866885600Z--026b09614190cdf54c97b40bd8f3e430a53f5b64
 ### Password: eth123
 ### Address 2: 0x7607d4B79199e6BE0b18fFB43D0A904694330832 
